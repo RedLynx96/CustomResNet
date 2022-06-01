@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 """
 Input debe ser matriz numerica de 333x333 en vez de imagen de 660*991
 """
-
+# Aqui falta algo
 
 #imgpath = 'C:/Users/david/Desktop/Python_test/TFMPaper/Colabs/Fractal_NoFractal'
 imgpath = 'C:/Users/david/Desktop/Cuencas/Duffing'
